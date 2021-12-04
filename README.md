@@ -27,3 +27,6 @@ Execute the program fff
 ~~~
 # OUPUT
 ![output](https://github.com/RuchithaReddy28/Experiment_Basic_HTML_Tag/blob/main/Screenshot%20(23).png?raw=true)
+
+# RESULT
+Thus the HTML tag is successfully executed.
