@@ -26,4 +26,4 @@ Execute the program fff
 </html>
 ~~~
 # OUPUT
-![output]()
+![output](https://github.com/RuchithaReddy28/Experiment_Basic_HTML_Tag/blob/main/Screenshot%20(23).png?raw=true)
